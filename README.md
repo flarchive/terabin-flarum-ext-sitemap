@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of terabin/flarum-ext-sitemap.** Not for installation: use [Packagist](https://packagist.org/packages/terabin/flarum-ext-sitemap) or the [upstream repository](https://github.com/terabin/flarum-ext-sitemap).
 
-**0** versions archived · Latest: [`v1.0.2-beta.2`](https://github.com/flarchive/terabin-flarum-ext-sitemap/tree/archive/v1.0.2-beta.2) · License: `MIT` · Flarum: `^0.1.0-beta.5`
+**3** versions archived · Latest: [`v1.0.2-beta.2`](https://github.com/flarchive/terabin-flarum-ext-sitemap/tree/archive/v1.0.2-beta.2) · License: `MIT` · Flarum: `^0.1.0-beta.5`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0-beta.2` | 2016-09-03 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/terabin-flarum-ext-sitemap/tree/archive/v1.0.0-beta.2) |
+| `v1.0.1-beta.2` | 2016-09-04 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/terabin-flarum-ext-sitemap/tree/archive/v1.0.1-beta.2) |
+| `v1.0.2-beta.2` | 2016-11-17 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/terabin-flarum-ext-sitemap/tree/archive/v1.0.2-beta.2) |
 
 Catalog entry: [packages/terabin-flarum-ext-sitemap.json](https://github.com/flarchive/archive-index/blob/main/packages/terabin-flarum-ext-sitemap.json)
 
